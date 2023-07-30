@@ -1,6 +1,6 @@
 # photo-view-function
 
-here is just a practice using knowledge learned before.
+change BrowserRouter to HashRouter
 
 
 # Reference
@@ -14,6 +14,6 @@ here is just a practice using knowledge learned before.
 
 <a href='https://juejin.cn/post/7069945906518294536'>https://juejin.cn/post/7069945906518294536</a>
 
-<a href=''></a>
+<a href='https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/'>https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/</a>
 
-<a href=''></a>
+<a href='https://stackoverflow.com/questions/71984401/react-router-not-working-with-github-pages'>https://stackoverflow.com/questions/71984401/react-router-not-working-with-github-pages</a>
